@@ -9,9 +9,9 @@
 }
 
 model-viewer {
-    margin: 400px auto;
-    width: 1200px;
-    height: 900px;
+    margin: 0 auto;
+    width: 920px;
+    height: 600px;
 }
 
 :not(:defined)>* {
