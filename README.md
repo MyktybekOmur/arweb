@@ -1,1 +1,1 @@
-# arweb AR technology for web site 
+# AR technology for web site 
